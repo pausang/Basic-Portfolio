@@ -3,7 +3,7 @@
 }
 
 body {
-    background: url('images/circuit.png') repeat;
+    background: url('../images/circuit.png') repeat;
     font-family: Arial, Helvetica, sans-serif;
     overflow: auto;
     color: #666666;
